@@ -2,20 +2,20 @@
 
 ## :rocket: ***Title: Decision Making Analyses of Virtual Rats Using Shap Values***
 
-### :dart: About:
+### - :dart: About:
 <p>This is an university project that intends to analyse the decision making of <br>
 Virtual Rats using Shap Values, in specific the experiment Labyrinth Cross Elevated <br>
 using Artificial Intelligence.</p>
 
-#### Elevated Plus Maze (EPM) :rat::
-![lab](/labrinth.png){ width: 200px; }
+#### - Elevated Plus Maze (EPM) :rat::
+<img src="labrinth.png" alt="labrinth" width="200"/>
 
-#### The Article:
+#### - The Article:
 
 >  *  ![lab](/Article.md)
 
 
-### :shipit: Collaborators:
+### - :shipit: Collaborators:
 <p>   Teacher: Ariadne de Andrade Costa <br>
    Student: Gabriel Souza Silva</p>
 
