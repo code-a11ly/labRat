@@ -14,6 +14,10 @@ using Artificial Intelligence.</p>
 
 >  *  ![lab](/Article.md)
 
+#### - The Code:
+
+>  *  ![lab](/labyrinth.py)
+
 
 ### - :shipit: Collaborators:
 <p>   Teacher: Ariadne de Andrade Costa <br>
