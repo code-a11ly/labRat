@@ -7,8 +7,13 @@
 Virtual Rats using Shap Values, in specific the experiment Labyrinth Cross Elevated <br>
 using Artificial Intelligence.</p>
 
-#### Labyrinth Cross Elevated (LCE) :rat::
-![](/labrinth.png)
+#### Elevated Plus Maze (EPM) :rat::
+![lab](/labrinth.png){ width: 200px; }
+
+#### The Article:
+
+>  *  ![lab](/Article.md)
+
 
 ### :shipit: Collaborators:
 <p>   Teacher: Ariadne de Andrade Costa <br>
