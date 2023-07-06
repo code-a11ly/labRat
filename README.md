@@ -12,11 +12,11 @@ using Artificial Intelligence.</p>
 
 #### - The Article:
 
->  *  ![lab](/Article.md)
+>  *  ![Article](/Article.md)
 
 #### - The Code:
 
->  *  ![lab](/labyrinth.py)
+>  *  ![labyrinth.py](/labyrinth.py)
 
 
 ### - :shipit: Collaborators:
